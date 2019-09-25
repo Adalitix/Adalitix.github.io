@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+
+title: Adalitix
+description: A machine learning toolkit for precision agriculture
+
+logo: ./logo.png
+show_downloads: true
+
+github:
+  zip_url: https://github.com/Adalitix/adalitix/zipball/master
+  tar_url: https://github.com/Adalitix/adalitix/tarball/master
+  repository_url: https://github.com/Adalitix/adalitix
